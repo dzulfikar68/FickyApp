@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ficky App</string>
+    <string-array name="religion">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Protestan</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+</resources>
